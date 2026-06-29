@@ -63,8 +63,8 @@ I'm a Computer Science Engineering student passionate about building AI-powered 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariRathnam-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariRathnam-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HariRathnam-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HariRathnam-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
 ---
