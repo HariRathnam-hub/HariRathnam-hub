@@ -71,9 +71,9 @@ I'm a Computer Science Engineering student passionate about building AI-powered 
 
 ## Coding Profiles
 
-<p>
+<p align="center">
   <a href="https://leetcode.com/u/Hari_Rathnam/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+    <img src="https://leetcard.jacoblin.cool/Hari_Rathnam?theme=dark&font=Karma&ext=contest" alt="Hari Rathnam's LeetCode Stats" />
   </a>
 </p>
 
