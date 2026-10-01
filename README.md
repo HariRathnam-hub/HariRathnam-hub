@@ -55,7 +55,6 @@ I'm a Computer Science Engineering student passionate about building AI-powered 
 | [🎓 College Admission Management Platform](https://github.com/HariRathnam-hub/College_Admission_Platform) | Production-ready admission management system with Student, Faculty, and Admin portals. Features include authentication, application tracking, document uploads, faculty reviews, admin management, Cloudinary integration, MongoDB Atlas, Brevo email notifications, and deployment on Vercel & Render. | React, TypeScript, Node.js, Express, MongoDB Atlas, Cloudinary |
 | [🏥 MedGuard](https://github.com/HariRathnam-hub/Medical-Emergency-Predictor) | AI-powered medical emergency predictor that analyzes health data and flags risks before they escalate. | TypeScript, React, Supabase |
 | [🏥 Hospital Queue System](https://github.com/HariRathnam-hub/Smart-Hospital-Queue-Management-System) | Smart hospital queue management with real-time updates and priority scheduling. | Node.js, React, Socket.io |
-| [🎓 Placement Portal](https://github.com/HariRathnam-hub/Placement-Portal-System) | End-to-end college placement portal for students, recruiters, and administrators. | React, Node.js, MongoDB |
 | [💼 Portfolio](https://github.com/HariRathnam-hub/My_Portfolio) | Personal developer portfolio showcasing projects, skills, and journey. | HTML, CSS, JavaScript |
 
 ---
