@@ -13,7 +13,7 @@
 
 I'm a Computer Science Engineering student passionate about building AI-powered applications that solve real-world problems. I enjoy working across the full stack — from designing intuitive UIs to architecting scalable backends and integrating AI/ML models.
 
-- 🔭 Currently building: **Smart Hospital Queue Management System** and **Placement Portal**
+- 🔭 Currently building: **Smart College Admission Management Platform** and **Zero Trust File Sharing Platform**
 - 🌱 Learning: TypeScript, system design, and cloud deployment
 - 🏆 Hackathon: Built **MyET AI** at ET Gen-AI Hackathon — a personalized business newsroom powered by Groq
 - 💡 Interests: Generative AI, health tech, developer tooling
