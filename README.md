@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hari Rathnam S 👋</h1>
-<h3 align="center">Second-year CSE student · Full-stack developer · AI enthusiast</h3>
+<h3 align="center">Third year CSE student · Full-stack developer · AI enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/HariRathnam-hub?tab=repositories">
@@ -73,10 +73,9 @@ I'm a Computer Science Engineering student passionate about building AI-powered 
 
 <p align="center">
   <a href="https://leetcode.com/u/Hari_Rathnam/">
-    <img src="https://leetcard.jacoblin.cool/Hari_Rathnam?theme=dark&font=Karma&ext=contest" alt="Hari Rathnam's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Hari_Rathnam?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
-
 ---
 
 ## Connect with me
